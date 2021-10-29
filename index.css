@@ -1,0 +1,44 @@
+body{
+background-color: #EAf6f6;
+margin: 0px;
+}
+
+h1{
+    color: cyan;
+    font
+}
+
+h3{
+    color: cyan;
+}
+
+hr{
+    /* background-color: grey; */
+    height: 2px;
+    width: 7%;
+    border-style: none;
+    border-top: dotted;
+    border-width: 7px;
+    border-color: grey;
+}
+.box1{
+    background-color: hotpink;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
+.box2{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.box3{
+    background-color: lightcoral;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
